@@ -3,4 +3,5 @@ import 'package:nextplay/views/app.dart';
 
 void main() {
   runApp(const NextPlayApp());
+  // main function
 }
